@@ -19,8 +19,9 @@
       <form>
         <div>
           <label>*Name: <input type="text" placeholder="enter your name"></label>
-          <label>*Email: <input type="mail" plaveholder="enter your mail"></label>
+          
         </div>
+        <div><label>*Email: <input type="mail" plaveholder="enter your mail"></label></div>
       </form>
     </div>
   </body>
